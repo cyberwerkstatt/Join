@@ -56,7 +56,7 @@
     }
 
     .mobile-edit-contact-btn {
-        background-image: url('../../assets/img/pencil-btn-default.svg');
+        background-image: url('./assets/img/pencil-btn-default.svg');
         background-repeat: no-repeat;
         width: 4em;
         height: 4em;

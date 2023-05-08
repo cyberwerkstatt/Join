@@ -22,7 +22,7 @@ async function load() {
     await includeHTML();
     checkURLandHighlight();
     setFaviconColorTheme();
-    if (window.location.pathname == '/index.html') {
+    if (window.location.pathname == '/Join/index.html') {
         loadUserCredentials();
     }
 }

@@ -100,6 +100,55 @@
     background-color: #e65252;
 }
 
+.pink {
+    background-color: #ff69b4;
+}
+
+.purple {
+    background-color: #a050a0;
+}
+
+.magenta {
+    background-color: #ff00ff;
+}
+
+.lime {
+    background-color: #00ff00;
+}
+
+.teal {
+    background-color: #008080;
+}
+
+.maroon {
+    background-color: #800000;
+}
+
+.navy {
+    background-color: #000080;
+}
+
+.olive {
+    background-color: #808000;
+}
+
+.brown {
+    background-color: #964B00;
+}
+
+.gray {
+    background-color: #808080;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.white {
+    background-color: #FFFFFF;
+}
+
+
 .highlight {
     box-shadow: 1px 1px 6px 1px #000000;
 }

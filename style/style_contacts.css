@@ -49,14 +49,14 @@
 /* Up */
 .slide-bar-scroll::-webkit-scrollbar-button:single-button:vertical:decrement {
     height: 25px;
-    background-image: url(../assets/img/scroll-arrow-up.svg);
+    background-image: url("../assets/img/scroll-arrow-up.svg");
     background-position: center;
 }
 
 /* Down */
 .slide-bar-scroll::-webkit-scrollbar-button:single-button:vertical:increment {
     height: 25px;
-    background-image: url(../assets/img/scroll-arrow-down.svg);
+    background-image: url("../assets/img/scroll-arrow-down.svg");
     background-position: center;
 }
 
@@ -184,7 +184,7 @@
 .pencil-img {
     width: 30px;
     height: 30px;
-    background-image: url(../assets/img/pencil-edit-contact.svg);
+    background-image: url("../assets/img/pencil-edit-contact.svg");
     background-repeat: no-repeat;
     background-size: contain;
     cursor: pointer;

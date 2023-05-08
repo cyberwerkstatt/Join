@@ -1,7 +1,10 @@
 /**
  * The array contains all color names of the category colors that can be selected when creating a new category.
  */
-let colors = ['orange', 'violet', 'cyan', 'gold', 'blue', 'light-blue', 'green', 'red'];
+let colors = ['orange', 'violet', 'cyan', 'gold', 'blue', 'light-blue', 
+'green', 'red', 'pink', 'purple', 'magenta', 'lime', 'teal',
+'maroon', 'navy', 'olive', 'brown', 'gray', 'black', 'white'];
+;
 /**
  * The variable defines the color that is currently selected.
  */
